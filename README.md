@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou formado com Técnico de Informática e Redes de computadores pelo Ceet Vasco Coutinho, curioso e apaixonado por TI.
+Formado como Técnico de Informática e Redes de computadores pelo Ceet Vasco Coutinho, curioso e apaixonado por TI.
 
 
 <!--
