@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Sou formado com Técnico de Informática e Redes de computadores pelo Ceet Vasco Coutinho, curioso e apaixonado por TI.
+
+
 <!--
 **TiagoBonomo/TiagoBonomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
