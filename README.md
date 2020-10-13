@@ -2,6 +2,16 @@
 
 Formado como Técnico de Informática e Redes de computadores pelo Ceet Vasco Coutinho, curioso e apaixonado por TI.
 
+- 🔭 Atualmente sou freelance Python
+
+- 🌱 Estudando Django 3
+
+- 🤔 Em busca de vagas no Desenvolvimento com Python/Django
+  
+- 📫 https://www.linkedin.com/in/tiago-bonomo-826432a3/
+
+- 📫 tiagofbonomo@gmail.com
+
 
 <!--
 **TiagoBonomo/TiagoBonomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
