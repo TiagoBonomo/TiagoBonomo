@@ -4,9 +4,9 @@ Formado como Técnico de Informática e Redes de computadores pelo Ceet Vasco Co
 
 - 🔭 Atualmente sou freelance Python
 
-- 🌱 Estudando Django 3
+- 🌱 Estudando Flask
 
-- 🤔 Em busca de vagas no Desenvolvimento com Python/Django
+- 🤔 Em busca de vagas no Desenvolvimento com Python
   
 - 📫 https://www.linkedin.com/in/tiago-bonomo-826432a3/
 
