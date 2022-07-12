@@ -8,7 +8,7 @@ Formado como Técnico de Informática e Redes de computadores pelo Ceet Vasco Co
 
 - 🤔 Em busca de vagas no Desenvolvimento com Python
   
-- 📫 https://www.linkedin.com/in/tiago-bonomo-826432a3/
+- 📫 https://br.linkedin.com/in/tiago-ferreira-bonomo
 
 - 📫 tiagofbonomo@gmail.com
 
