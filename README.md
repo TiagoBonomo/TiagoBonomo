@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-Formado como Técnico de Informática e Redes de computadores pelo Ceet Vasco Coutinho, curioso e apaixonado por TI.
+Formado como Técnico de Informática e  Técnico em Redes de computadores pelo CEET Vasco Coutinho, cursando Desenvolvimento Full Stack na Estácio, curioso e apaixonado por TI.
 
-- 🔭 Atualmente sou freelance Python
+- 🔭 Atualmente trabalho com suporte técnico em geral na área de TI
+     Help Desk, Field Service, Service Desk.
 
-- 🌱 Estudando Flask
+- 🌱 Estudando Flask, Django, Inteligência Artificial, Analise de Dados.
 
-- 🤔 Em busca de vagas no Desenvolvimento com Python
-  
-- 📫 https://br.linkedin.com/in/tiago-ferreira-bonomo
+- 🤔 Em busca de vagas no Desenvolvimento(Novos desafios).  
+
+- ⚡ Jogador casual de COD Warzone(O melhor da minha rua 😄 ).
 
 - 📫 tiagofbonomo@gmail.com
 
