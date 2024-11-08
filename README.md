@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 Formado como Técnico de Informática e  Técnico em Redes de computadores pelo CEET Vasco Coutinho, cursando Desenvolvimento Full Stack na Estácio, curioso e apaixonado por TI.
 
