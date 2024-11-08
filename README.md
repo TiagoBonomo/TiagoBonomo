@@ -2,7 +2,7 @@
 
 Formado como Técnico de Informática e  Técnico em Redes de computadores pelo CEET Vasco Coutinho, cursando Desenvolvimento Full Stack na Estácio, curioso e apaixonado por TI.
 
-- 🔭 Atualmente trabalho com suporte técnico em geral na área de TI
+- 🔭 Atualmente trabalho com suporte técnico em geral na área de TI,
      Help Desk, Field Service, Service Desk.
 
 - 🌱 Estudando Flask, Django, Inteligência Artificial, Analise de Dados.
